@@ -1,2 +1,2 @@
 # miscellanea
-Various codes for doink the kind of stuff I like...
+A collection of codes that I need for photometric analysis
